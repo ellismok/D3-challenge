@@ -1,5 +1,6 @@
 # D3-challenge
 
+
 ## Background
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
@@ -10,7 +11,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
-![4-scatter](Images/4-scatter.jpg)
+<img width="635" alt="Screen Shot 2021-06-15 at 3 50 53 PM" src="https://user-images.githubusercontent.com/74644774/122140585-857fd000-ce00-11eb-8c82-cd0190cc5722.png">
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
